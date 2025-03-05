@@ -1,0 +1,29 @@
+input{
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.login{
+    margin-left: 30%;
+    align-items: center;
+    width: 500px;
+    background-color:grey;
+}
+.signup{
+    width: 500px;
+    background-color: aqua;
+    margin-left: 30%;
+}
+.forget{
+    width: 500px;
+    background-color: rgb(225, 170, 103);
+    margin-left: 30%;
+}
+button{
+    height: 30px;
+    width: 80px;
+    background-color: blue;
+    color: antiquewhite;
+}
