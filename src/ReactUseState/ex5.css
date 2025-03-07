@@ -1,0 +1,30 @@
+.container{
+    width: 400px;
+    box-shadow: 0px 0px 10px black;
+    padding: 10px;
+    margin: 50px auto;
+    text-align: center;
+
+}
+
+.formcontainer{
+display: flex;
+flex-direction: column;
+}
+.formcontainer input{
+    height: 30px;
+}
+.formcontainer button{
+    height: 40px;
+    width: 70px;
+    border: none;
+    background-color: blue;
+    color:white;
+    border-radius: 10px;
+}
+
+.formcontainer button:active{
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+}
